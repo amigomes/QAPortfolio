@@ -8,6 +8,6 @@ Console errors are seen on the website while loading.
 <br/>
 Attachments:-
 <br/>
-Steps to reproduce:-
+Steps to reproduce:-<br/>
 1. Just go to https://rauxa.com/ <br/>
 2. Open web Insepector and observe the errors in the console.
